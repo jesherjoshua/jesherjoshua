@@ -11,8 +11,9 @@ A Sophomore @VIT Chennai with a solid background in data science and machine lea
 
 ## 📊 GitHub Stats:
 <img src="https://user-images.githubusercontent.com/87414375/209963048-7395f5d8-f789-4e19-aed2-430998b8e763.gif" width="100%" align="center"><br/>
-![](https://github-readme-stats.vercel.app/api?username=jesherjoshua&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=jesherjoshua&theme=nightowl&hide_border=false)<br/>
+<!---![Jesher's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesherjoshua&show_icons=true&theme=dracula)--->
+<img src='https://github-readme-streak-stats.herokuapp.com?user=jesherjoshua&theme=blueberry_duo&hide_border=true&mode=daily&fire=DD6A05' width='100%'></img>
+<br/>
 
 
 ## 📌 Pins:
